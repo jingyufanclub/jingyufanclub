@@ -1,5 +1,3 @@
-<h1 align="center">Computer Club</h1>
+# Computer Club
 
-<figure align="center">
-  <img src="./assets/ghost.gif" width="300px">
-</figure>
+<img alt="A ghost floating out of a computer monitor" src='assets/ghost.gif' width="300px" />
